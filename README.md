@@ -65,13 +65,15 @@ My contributions to the 2021 [30 Day Chart Challenge](https://twitter.com/30DayC
 
 ## Uncertainties
 
-### (25)  
+### (25) Demographic
 
-### (26) 
+### (26) Trends
 
-###  (27) 
+### (27) Educational
 
-### (28) 
+### (28) Future
 
-### (29) 
+### (29) Deviations
+
+### (30) 3D
 
