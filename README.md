@@ -7,6 +7,8 @@ My contributions to the 2021 [30 Day Chart Challenge](https://twitter.com/30DayC
 
 ### (1) Part-to-whole
 
+![Bechdel test](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/1_bechdel.png)
+
 ### (2) Pictogram
 
 ### (3) Historical
