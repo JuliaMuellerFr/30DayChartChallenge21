@@ -9,11 +9,21 @@ My contributions to the 2021 [30 Day Chart Challenge](https://twitter.com/30DayC
 
 ![Bechdel test](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/1_bechdel.png)
 
+
 ### (2) Pictogram
+
+![Classic cocktail recipes](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/2_cocktails.png)
+
 
 ### (3) Historical
 
+![The space race](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/3_space.png)
+
+
 ### (4) Magical
+
+![Heroes of Might and Magic 3 units](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/4_heroes.png)
+
 
 ### (5) Slope
 
