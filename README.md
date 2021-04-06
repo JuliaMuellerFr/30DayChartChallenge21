@@ -27,6 +27,9 @@ My contributions to the 2021 [30 Day Chart Challenge](https://twitter.com/30DayC
 
 ### (5) Slope
 
+![Player numbers for Elder Scrolls games on Steam](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/5_ElderScrolls.png)
+
+
 ### (6) Experimental
 
 
