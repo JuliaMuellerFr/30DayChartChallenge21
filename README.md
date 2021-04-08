@@ -32,12 +32,20 @@ My contributions to the 2021 [30 Day Chart Challenge](https://twitter.com/30DayC
 
 ### (6) Experimental
 
+![Beautiful flame tree](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/6_ft_berlin.png)
+
 
 ## Distributions
 
 ### (7) Physical
 
+[!Plastic pollution in 2019 and 2020](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/7_plastics.png)
+
+
 ### (8) Animals
+
+[!My cat's better than all other cats](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/8_animals.png)
+
 
 ### (9) Statistics
 
