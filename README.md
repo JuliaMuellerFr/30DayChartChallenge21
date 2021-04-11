@@ -7,44 +7,44 @@ My contributions to the 2021 [30 Day Chart Challenge](https://twitter.com/30DayC
 
 ### (1) Part-to-whole
 
-![Bechdel test](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/1_bechdel.png)
+![Bechdel test](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/01_bechdel.png)
 
 
 ### (2) Pictogram
 
-![Classic cocktail recipes](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/2_cocktails.png)
+![Classic cocktail recipes](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/02_cocktails.png)
 
 
 ### (3) Historical
 
-![The space race](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/3_space.png)
+![The space race](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/03_space.png)
 
 
 ### (4) Magical
 
-![Heroes of Might and Magic 3 units](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/4_heroes.png)
+![Heroes of Might and Magic 3 units](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/04_heroes.png)
 
 
 ### (5) Slope
 
-![Player numbers for Elder Scrolls games on Steam](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/5_ElderScrolls.png)
+![Player numbers for Elder Scrolls games on Steam](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/05_ElderScrolls.png)
 
 
 ### (6) Experimental
 
-![Beautiful flame tree](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/6_ft_berlin.png)
+![Beautiful flame tree](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/06_ft_berlin.png)
 
 
 ## Distributions
 
 ### (7) Physical
 
-![Plastic pollution in 2019 and 2020](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/7_plastics.png)
+![Plastic pollution in 2019 and 2020](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/07_plastics.png)
 
 
 ### (8) Animals
 
-![My cat's better than all other cats!](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/8_animals.png)
+![My cat's better than all other cats!](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/08_animals.png)
 
 
 ### (9) Statistics
