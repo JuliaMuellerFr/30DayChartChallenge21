@@ -59,6 +59,10 @@ My contributions to the 2021 [30 Day Chart Challenge](https://twitter.com/30DayC
 
 ### (11) Circular
 
+TV's golden age - the plots show...
+
+![the number of seasons per show per genre](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/11_seasons.PNG)  ![the average shares per show per genre](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/11_shares.PNG)
+
 
 ### (12) Strips
 
