@@ -1,4 +1,4 @@
-# Day 6: Experimental
+# Day 11: Circular
 
 library(hrbrthemes)
 library(circlepackeR)
