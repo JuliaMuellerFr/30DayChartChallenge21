@@ -51,13 +51,14 @@ My contributions to the 2021 [30 Day Chart Challenge](https://twitter.com/30DayC
 
 ![Wine prices](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/09_wine.png)
 
+
 ### (10) Abstract
 
 ![Art media Mondrian-style](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/10_art.png)
 
+
 ### (11) Circular
 
-![TV](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/11_seasons.html)
 
 ### (12) Strips
 
