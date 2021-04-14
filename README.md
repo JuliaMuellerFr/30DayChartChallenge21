@@ -59,17 +59,21 @@ My contributions to the 2021 [30 Day Chart Challenge](https://twitter.com/30DayC
 
 ### (11) Circular
 
-TV's golden age - the plots show...
+TV's golden age
 
-![the number of seasons per show per genre](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/11_seasons.PNG)  ![the average shares per show per genre](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/11_shares.PNG)
+![Number of seasons per show per genre](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/11_seasons.PNG)  ![Average shares per show per genre](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/11_shares.PNG)
 
 
 ### (12) Strips
+
+![World-wide crop yields](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/12_crops.png)
 
 
 ## Relationships
 
 ### (13) Correlation
+
+![Urban rail projects](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/13_transitCost.png)
 
 ### (14) Space
 
