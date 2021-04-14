@@ -61,7 +61,11 @@ My contributions to the 2021 [30 Day Chart Challenge](https://twitter.com/30DayC
 
 TV's golden age
 
-![Number of seasons per show per genre](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/11_seasons.PNG)  ![Average shares per show per genre](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/11_shares.PNG)
+Number of seasons per show per genre: 
+![Number of seasons per show per genre](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/11_seasons.PNG)
+
+Average shares per show per genre
+![Average shares per show per genre](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/11_shares.PNG)
 
 
 ### (12) Strips
@@ -75,7 +79,11 @@ TV's golden age
 
 ![Urban rail projects](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/13_transitCost.png)
 
+
 ### (14) Space
+
+![UFOs everywhere!](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/14_ufos.png)
+
 
 ### (15) Multivariate
 
