@@ -87,6 +87,8 @@ Average shares per show per genre
 
 ### (15) Multivariate
 
+![Back to the Bechdel test](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/15_bechdelAgain.png)
+
 ### (16) Trees
 
 ### (17) Pop culture
