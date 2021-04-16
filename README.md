@@ -61,10 +61,12 @@ My contributions to the 2021 [30 Day Chart Challenge](https://twitter.com/30DayC
 
 TV's golden age
 
-Number of seasons per show per genre: 
+Number of seasons per show per genre:
+
 ![Number of seasons per show per genre](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/11_seasons.PNG)
 
-Average shares per show per genre
+Average shares per show per genre:
+
 ![Average shares per show per genre](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/11_shares.PNG)
 
 
@@ -89,7 +91,11 @@ Average shares per show per genre
 
 ![Back to the Bechdel test](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/15_bechdelAgain.png)
 
+
 ### (16) Trees
+
+![Decision tree Spotify pop subgenre](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/16_popTree.png)
+
 
 ### (17) Pop culture
 
