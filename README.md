@@ -99,7 +99,12 @@ Average shares per show per genre:
 
 ### (17) Pop culture
 
+![Characteristic words for each "Friends" character](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/17_friends.png)
+
+
 ### (18) Connections
+
+![Animal Crossing villagers personality traits](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/18_AC.png)
 
 
 ## Timeseries
