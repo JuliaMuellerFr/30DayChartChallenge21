@@ -111,11 +111,18 @@ Average shares per show per genre:
 
 ### (19) Global change
 
-### (20) Upwards
+![Global crop yields](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/19_yields.png)
 
-### (21) Downwards
+
+### (20) Upwards & (21) Downwards
+
+![Highest temperature and amount of rain](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/20_21_weather.png)
+
 
 ### (22) Animation
+
+![Drivers of deforestation in Brazil](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/22_deforestation.gif)
+
 
 ### (23) Tiles
 
