@@ -126,7 +126,12 @@ Average shares per show per genre:
 
 ### (23) Tiles
 
+![Big Mac Index](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/23_bigmac.png)
+
+
 ### (24) Monochrome
+
+![German Netflix](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/24_netflix.png)
 
 
 ## Uncertainties
