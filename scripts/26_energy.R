@@ -1,4 +1,4 @@
-# Day 26: Trend
+# Day 26: Trends
 
 library(tidyverse)
 library(extrafont)
