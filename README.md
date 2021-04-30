@@ -138,13 +138,30 @@ Average shares per show per genre:
 
 ### (25) Demographic
 
+![Development of student debt in the US](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/25_studentDebt.png)
+
+
 ### (26) Trends
+
+![Electricity production in Germany](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/26_energy.png)
+
 
 ### (27) Educational
 
+![Meta plot of packages I used during this challenge](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/27_libraries.png)
+
+
 ### (28) Future
+
+![Predicting carbon dioxide on Hawaii](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/28_hawaii.png)
+
 
 ### (29) Deviations
 
+![Music genres and audio features on Spotifx](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/29_spotify.png)
+
+
 ### (30) 3D
+
+![Palmer penguins](https://github.com/JuliaMuellerFr/30DayChartChallenge21/blob/main/plots/30_penguins.png)
 
